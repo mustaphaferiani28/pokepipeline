@@ -29,8 +29,8 @@ cd pokemon_pipeline
 
 # 2. Create virtual environment
 python -m venv venv
-source venv/bin/activate  # on Linux/Mac
-# or venv\Scripts\activate  # on Windows
+source venv/bin/activate66 on Linux/Mac
+# or venv\Scripts\activate--> on Windows
 
 # 3. Install required libraries
 pip install requests
