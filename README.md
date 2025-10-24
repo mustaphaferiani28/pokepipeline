@@ -1,9 +1,9 @@
 First, we need to clearly understand what's required:
 
-1-Extract data for 10-20 Pokémon from the PokeAPI
-2-Transform the JSON data into a structure suitable for a relational database
-3-Store the data in a SQLite database
-4-Write a comprehensive README.md
+.1-Extract data for 10-20 Pokémon from the PokeAPI
+.2-Transform the JSON data into a structure suitable for a relational database
+.3-Store the data in a SQLite database
+.4-Write a comprehensive README.md
 
 Step 2: Architecture Design
 Overall pipeline architecture
